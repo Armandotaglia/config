@@ -1,0 +1,6 @@
+[general]
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Ayu-Mirage.toml"
+]
+[font]
+size = 15

@@ -1,0 +1,3 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Google.dark.toml"
+]

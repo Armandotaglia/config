@@ -1,0 +1,11 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Default.dark.toml"
+]
+
+[general]
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Gruvbox-Dark.toml"
+]
+
+[font]
+size = 15
