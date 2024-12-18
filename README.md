@@ -132,23 +132,22 @@ This setup includes a mix of plugins for:
 Keep your Neovim configuration organized and regularly reviewed for optimal performance.
 
 # Neovim screen
+![alt text](screen/1.jpeg)
 
-![alt text](1.jpeg)
+![alt text](screen/2.jpeg) 
 
-![alt text](2.jpeg)
+![alt text](screen/3.jpeg) 
 
-![alt text](3.jpeg) 
+![alt text](screen/4.jpeg) 
 
-![alt text](4.jpeg) 
+![alt text](screen/5.jpeg) 
 
-![alt text](5.jpeg) 
+![alt text](screen/6.jpeg) 
 
-![alt text](6.jpeg) 
+![alt text](screen/7.jpeg)
 
-![alt text](7.jpeg) 
+![alt text](screen/8.jpeg)
 
-![alt text](8.jpeg) 
+![alt text](screen/9.jpeg) 
 
-![alt text](9.jpeg)
-
-![alt text](10.jpeg) 
+![alt text](screen/10.jpeg)
