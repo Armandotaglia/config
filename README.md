@@ -1,4 +1,79 @@
-# Neovim Plugins Configuration
+## System Configurations
+
+This section provides an overview of the system configurations included in the setup:
+
+### Alacritty
+- **Description**: A GPU-accelerated terminal emulator with a focus on simplicity and performance.
+- **Config Path**: `~/.config/alacritty`
+
+### Btop
+- **Description**: A resource monitor for your system, providing detailed usage metrics.
+- **Config Path**: `~/.config/btop`
+
+### Dconf
+- **Description**: Configuration system for GNOME, managing settings and preferences.
+- **Config Path**: Managed via `dconf-editor` or command line.
+
+### Fish
+- **Description**: A user-friendly command-line shell with advanced features and interactive prompts.
+- **Config Path**: `~/.config/fish`
+
+### Go
+- **Description**: Configurations for the Go programming language.
+- **Config Path**: `~/.config/go`
+
+### GTK-2.0 and GTK-3.0
+- **Description**: Themes and graphical settings for GTK-based applications.
+- **Config Paths**:
+  - GTK 2.0: `~/.config/gtk-2.0`
+  - GTK 3.0: `~/.config/gtk-3.0`
+
+### i3
+- **Description**: A tiling window manager for Linux, focusing on efficiency and simplicity.
+- **Config Path**: `~/.config/i3`
+
+### Neofetch
+- **Description**: A command-line tool that displays system information in an aesthetic format.
+- **Config Path**: `~/.config/neofetch`
+
+### Nitrogen
+- **Description**: A lightweight background manager for X11.
+- **Config Path**: `~/.config/nitrogen`
+
+### Nvim
+- **Description**: Configuration for Neovim, an extensible Vim-based text editor.
+- **Config Path**: `~/.config/nvim`
+
+### Picom
+- **Description**: A standalone compositor for X11, enabling window transparency and effects.
+- **Config Path**: `~/.config/picom`
+
+### Polybar
+- **Description**: A modular and customizable status bar.
+- **Config Path**: `~/.config/polybar`
+
+### Pulse
+- **Description**: Configurations for PulseAudio, a sound server for Linux.
+- **Config Path**: `~/.config/pulse`
+
+### Rofi
+- **Description**: An application launcher and window switcher.
+- **Config Paths**:
+  - Default: `~/.config/rofi`
+  - Backup: `~/.config/rofi.old`
+  - User-Specific: `~/.config/rofi.armando`
+
+### Systemd
+- **Description**: Configuration for systemd, the init system and service manager.
+- **Config Path**: `~/.config/systemd`
+
+### Yay
+- **Description**: Configuration for Yay, an AUR helper for Arch Linux.
+- **Config Path**: `~/.config/yay`
+
+
+
+## Neovim Plugins Configuration
 
 This document provides an overview of the Neovim plugins included in the setup, along with their respective branches, commit hashes, and descriptions. Each plugin serves a unique purpose to enhance your Neovim experience.
 
